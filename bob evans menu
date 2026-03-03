@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Bob Evans Menu with Prices (2026 Updated Guide)</title>
+<meta name="description" content="Explore the complete Bob Evans menu with updated 2026 prices including breakfast, lunch, dinner, family meals, and FAQs. Fresh homestyle food guide.">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --primary:#8b1e1e;
+  --light:#f9f9fb;
+  --dark:#222;
+}
+
+body{
+  font-family:'Inter',sans-serif;
+  margin:0;
+  background:var(--light);
+  color:#333;
+  line-height:1.7;
+}
+
+header{
+  background:linear-gradient(135deg,#8b1e1e,#b42c2c);
+  color:white;
+  padding:70px 20px;
+  text-align:center;
+}
+
+header h1{
+  margin:0;
+  font-size:42px;
+  font-weight:700;
+}
+
+header p{
+  font-size:18px;
+  opacity:.9;
+}
+
+.container{
+  max-width:1100px;
+  margin:auto;
+  padding:50px 20px;
+}
+
+section{
+  margin-bottom:60px;
+}
+
+h2{
+  color:var(--primary);
+  margin-bottom:20px;
+  font-size:28px;
+}
+
+.card{
+  background:white;
+  padding:25px;
+  border-radius:14px;
+  box-shadow:0 8px 20px rgba(0,0,0,0.05);
+  margin-bottom:25px;
+  transition:.3s;
+}
+
+.card:hover{
+  transform:translateY(-4px);
+}
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:15px;
+}
+
+th,td{
+  padding:14px;
+  border-bottom:1px solid #eee;
+  text-align:left;
+}
+
+th{
+  background:#fafafa;
+  font-weight:600;
+}
+
+.faq-item{
+  margin-bottom:15px;
+}
+
+footer{
+  background:var(--dark);
+  color:#ccc;
+  text-align:center;
+  padding:25px;
+  font-size:14px;
+}
+
+@media(max-width:768px){
+  header h1{font-size:30px;}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Bob Evans Menu with Prices (2026)</h1>
+  <p>Complete Breakfast, Lunch & Dinner Guide</p>
+</header>
+
+<div class="container">
+
+<section>
+  <h2>About Bob Evans Menu</h2>
+  <div class="card">
+    <p>
+      The <a href="http://bobevansmenue.com">Bob Evans menu</a> is known for farm-fresh ingredients, homestyle comfort food, and generous portions.
+      From all-day breakfast platters to hearty dinner combinations, the restaurant focuses on classic American flavors
+      served in a family-friendly atmosphere.
+    </p>
+  </div>
+</section>
+
+<section>
+  <h2>Breakfast Menu Prices</h2>
+  <div class="card">
+    <table>
+      <tr><th>Item</th><th>Price</th></tr>
+      <tr><td>Farmer’s Choice Breakfast</td><td>$12.99</td></tr>
+      <tr><td>Rise & Shine</td><td>$8.99</td></tr>
+      <tr><td>Double Meat Breakfast</td><td>$11.49</td></tr>
+      <tr><td>Hotcakes Combo</td><td>$9.49</td></tr>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2>Lunch & Dinner Menu Prices</h2>
+  <div class="card">
+    <table>
+      <tr><th>Item</th><th>Price</th></tr>
+      <tr><td>Country Fried Steak</td><td>$14.99</td></tr>
+      <tr><td>Homestyle Fried Chicken</td><td>$13.49</td></tr>
+      <tr><td>Slow-Roasted Turkey & Dressing</td><td>$15.49</td></tr>
+      <tr><td>Pot Roast Dinner</td><td>$15.99</td></tr>
+    </table>
+  </div>
+</section>
+
+<section>
+  <h2>Family Meals & Specials</h2>
+  <div class="card">
+    <p>
+      Bob Evans offers family-sized meals perfect for gatherings. These bundles typically include a main entrée,
+      multiple sides, fresh-baked rolls, and dessert options. Prices vary by location.
+    </p>
+  </div>
+</section>
+
+<section>
+  <h2>Frequently Asked Questions</h2>
+  <div class="card">
+    <div class="faq-item">
+      <strong>Does Bob Evans serve breakfast all day?</strong>
+      <p>Yes, most locations offer breakfast items throughout the day.</p>
+    </div>
+
+    <div class="faq-item">
+      <strong>Are menu prices the same everywhere?</strong>
+      <p>Prices may vary depending on state and location.</p>
+    </div>
+
+    <div class="faq-item">
+      <strong>Does Bob Evans offer online ordering?</strong>
+      <p>Yes, pickup and delivery are available at participating locations.</p>
+    </div>
+  </div>
+</section>
+
+</div>
+
+<footer>
+  © 2026 Bob Evans Menu Guide | Prices may vary by location.
+</footer>
+
+<!-- SEO Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Bob Evans Menu with Prices (2026)",
+  "description": "Complete guide to Bob Evans menu including breakfast, lunch, dinner and family meals.",
+  "author": {
+    "@type": "Organization",
+    "name": "Menu Guide"
+  }
+}
+</script>
+
+</body>
+</html>
